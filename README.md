@@ -12,7 +12,7 @@ We recently submitted findings from the city-wide Greater Manchester Care Record
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+* [CCU040_01: Sars-Cov-2 Infection in People with Type 1 Diabetes and Hospital Admission: An Analysis of Risk Factors for England](https://github.com/BHFDSC/CCU040_01)
 
 ## Project approval
 
